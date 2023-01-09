@@ -1,0 +1,21 @@
+.header{
+    text-align: center;
+}
+.text-hero{
+    color: black;
+    
+}
+
+.link{
+   text-decoration: none;
+}
+
+.hero{
+
+}
+
+img{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
